@@ -1,0 +1,35 @@
+{   
+    "company": "Real Business AB",
+
+    "website": "https://www.realbusiness.se",
+
+    "staff": [
+      {
+        "name": "Oliver Persson",
+        "title": "Hobby-programmerare",
+        "phone": "+46 00 000 00 01",
+        "mail": "oliver.persson@realbusiness.se"
+      },
+      {
+        "name": "Bob Svensson",
+        "title": "Nätverkstekniker",
+        "phone": "+46 00 000 00 02",
+        "mail": "bob.svensson@realbusiness.se"
+      },
+      {
+        "name": "Jan Karlsson",
+        "title": "Ekonom",
+        "phone": "+46 00 000 00 03",
+        "mail": "jan.karlsson@realbusiness.se"
+      },
+      {
+        "name": "Göran Jansson",
+        "title": "Konsult",
+        "phone": "+46 00 000 00 04",
+        "mail": "goran.jansson@realbusiness.se"
+      }
+    ],
+
+    "qrCodeColor": "black",
+    "qrCodeBackgroundColor": "white"
+  }
